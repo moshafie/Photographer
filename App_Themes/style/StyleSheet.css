@@ -1,0 +1,192 @@
+﻿
+ 
+body
+{
+    margin: 0px;
+    background-color: white ;
+}
+html {
+	height: 100%;
+	width: 100%;
+}
+#contener {
+	font-family: "Century Gothic";
+	max-height: 650px;
+	width: 940px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#main #nav ul li a:hover
+{
+    color: #299AF5;
+}
+#main #nav ul li  {
+	display: inline;
+	text-transform: uppercase;
+	padding-right: 30px;
+}
+#main #contant {
+
+	padding: 0px;
+	margin-right:auto;
+	margin-left:auto;
+	min-height: 412px;
+	width: 940px;
+	background-color: white;
+}
+#main #nav ul li a  {
+	color: #FFF;
+	text-decoration: none;
+}
+#head #logo #ss-logo
+{
+    background-image: url('../../Images/Untitled-1_02.jpg');
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display: block;
+    height: 107px;
+    width: 441px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#head {
+	height: 100px;
+}
+#main #nav {
+	height: 39px;
+	background-color: #252525;
+	color: #FFF;
+}
+#main #nav ul  {
+	margin: 0px;
+	padding-top: 10px;
+	list-style-type: none;
+	text-align: center;
+}
+#footer {
+	height: 20px;
+	width: 940px;
+	margin:0px;
+	padding: 10px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #252525;
+	clear:both;
+	
+}
+#main #nav ul li {
+	display: inline;
+	float: left;
+    width: 180px;
+}
+.cycle-slideshow  {
+	height: auto;
+	width: 940px;
+}
+#main {
+	margin: 0px;
+}
+
+.Introduction
+{
+  font-style: italic;
+}
+
+
+.PleaseWait
+{
+  height: 32px;
+  width: 500px;
+  background-image: url(Images/PleaseWait.gif);
+  background-repeat: no-repeat;
+  padding-left: 40px;
+  line-height: 32px; 
+}
+
+.StaticMenuItemStyle, .StaticMenuItemStyle a
+{
+    /* Defines the look of main menu items. */
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 2px;
+}
+
+.StaticHoverStyle, .StaticSelectedStyle
+{
+	/* Defines the look of active and hover menu items */
+	background-color: #c1e4ce;
+}
+
+.DynamicMenuItemStyle
+{
+    /* Defines the sub menu items */
+    font-size: 14px;
+    color: #FFFFFF;
+    background-color: #CC3300;
+    padding: 4px 2px 4px 3px;
+}
+
+.DynamicHoverStyle
+{
+	/* Defines the hover style of sub menus */
+	background-color: #707070;
+	color: White;
+}
+
+.DynamicHoverStyle a
+{
+    /* Removes the underline from links in the sub menus */
+    text-decoration: none;
+   margin: 10px 20px 10px 5;
+}
+
+
+.itemContainer
+{
+    margin: 0px;
+    width: auto;
+    list-style-type: none;
+    
+}
+.itemContainer li
+{
+    margin: 20px; 
+    width: 170px;
+    float: left;
+    clear:inherit;
+}
+.itemContainer li img
+{
+    width: 180px;
+    margin: 5px 20px 10px 5;
+}
+#main #contant #lstview
+{
+    margin: 0px;
+    width: 700px;
+    float: left;
+    margin-right:auto;
+    margin-left:auto;
+    min-height: 300;
+  
+    
+}
+
+
+#gred
+{
+     margin: 0px; 
+    width: 122px;
+    float: left;
+}
+
+#pager
+{
+    margin: 0px;
+    width: 940;
+    bottom: auto;
+    clear: both;
+    text-align: center;
+}

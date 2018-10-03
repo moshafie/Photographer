@@ -1,9 +1,0 @@
-﻿Hi Client Support Team
-
-A user has left the following feedback at the web site
-
-Name:          ##Name##    
-Emial:         ##Emial##  
-Home Phone:    ##HomePhone##
-Work Phone:    ##WorkPhone##    
-Comments:      ##Comments##
